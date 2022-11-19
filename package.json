@@ -4,7 +4,8 @@
   "description": "",
   "main": "server.js",
   "engines": {
-    "node": "16.14.2"
+    "node": "16.14.2",
+    "npm": "8.5.0"
   },
   "scripts": {
     "client-install": "npm install --prefix client",
